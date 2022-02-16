@@ -6,7 +6,7 @@ import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
 
 /**
 * @title Staking Token (STK)
-* @author Alberto Cuesta Canada
+* @author Anurag Saini India
 * @notice Implements a basic ERC20 staking token with incentive distribution.
 */
 contract StakingToken is ERC20, Ownable {
